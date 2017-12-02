@@ -1,0 +1,1 @@
+export const centralCoordination = { lat: 49.572442, lng: 19.767194 };
